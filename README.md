@@ -22,7 +22,11 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 
 
-##  项目开发日志
+## 项目运行截图
+1、用户登录和注册
 
-1、vue init webpack命令创建项目
+![image-20210530133916988](C:\Users\86150\AppData\Roaming\Typora\typora-user-images\image-20210530133916988.png)
 
+2、主界面
+
+![image-20210530133944343](C:\Users\86150\AppData\Roaming\Typora\typora-user-images\image-20210530133944343.png)
